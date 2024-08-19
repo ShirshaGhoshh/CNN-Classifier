@@ -1,10 +1,12 @@
 # CNN-Classifier
+
 A Convolutional Neural Network (CNN) classifier designed for brain tumor classification using the ResNet-50 model is an advanced deep learning approach tailored to accurately identify and categorize brain tumors from medical imaging data, such as MRI scans. ResNet-50, a 50-layer deep residual network, is particularly well-suited for this task due to its ability to mitigate the vanishing gradient problem that often hampers the performance of very deep networks.
 
-# Best Trained Model -
-# Link of the Model - 
-[Model](https://drive.google.com/file/d/1ggAWl4ab4pJQYaHJ6elvtT_ZR0dQzD20/view?usp=drive_link)
-# Our best model returned - 
+# Best Trained Model:
+
+**Link of the Model** - 
+[**MODEL**](https://drive.google.com/file/d/1ggAWl4ab4pJQYaHJ6elvtT_ZR0dQzD20/view?usp=drive_link)
+**Our best model returned** - 
 *Training accuracy* of 99.69% and loss of 0.0049.
 *Validation accuracy* of 95.70% and loss of 0.1665.
 *Testing accuracy* of 94.62% and loss of 0.3212.
@@ -34,3 +36,6 @@ A Convolutional Neural Network (CNN) classifier designed for brain tumor classif
 
 # Conclusion:
 Using ResNet-50 for brain tumor classification combines the strengths of deep residual networks with domain-specific adaptations to achieve high accuracy and reliability in medical image analysis. This approach not only enhances the accuracy of tumor classification but also offers a scalable and efficient solution for handling large volumes of medical imaging data in clinical settings.
+
+# Dataset:
+[**DATASET**](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
